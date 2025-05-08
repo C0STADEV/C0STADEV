@@ -32,7 +32,7 @@ Estudande de ciência da computação e um entusiasta da tecnologia/inovação, 
 <img width="30px" style="padding-right: 10px" title="css" alt="css" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
 <img width="30px" style="padding-right: 10px" title="javascript" alt="javascript" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
 <img width="30px" style="padding-right: 10px" title="react.js" alt="react.js" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
-<img width="30px" style="padding-right: 10px" title="next.js" alt="next.js" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg"/>
+<img width="30px" style="padding-right: 10px" title="next.js" alt="next.js" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"/>
 <br>
 <br>
 
