@@ -7,8 +7,7 @@ Estudande de ciência da computação e um entusiasta da tecnologia/inovação, 
 
 <p align="left">
       <a href="https://www.instagram.com/oguxtavin/">
-         <img alt="instagram link" title="follow me on instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-         "/></a> 
+         <img alt="instagram link" title="follow me on instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> 
       <a href="https://github.com/C0STADEV?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/C0STADEV?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
      <a href="https://github.com/C0STADEV?tab=followers">
