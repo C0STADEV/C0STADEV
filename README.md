@@ -24,8 +24,8 @@ Estudande de ciência da computação e um entusiasta da tecnologia/inovação, 
 <img width="30px" style="padding-right: 10px" title="c#" alt="c#" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
 <img width="30px" style="padding-right: 10px" title="dot-net" alt="dot-net" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain-wordmark.svg"/>
 <img width="30px" style="padding-right: 10px" title="node.js" alt="node.js" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" />
-<img width="30px" style="padding-right: 10px" title="node.js" alt="node.js" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
-<img width="30px" style="padding-right: 10px" title="node.js" alt="node.js" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"  />
+<img width="30px" style="padding-right: 10px" title="postgress" alt="postgress" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
+<img width="30px" style="padding-right: 10px" title="mysql" alt="mysql" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"  />
 <img width="30px" style="padding-right: 10px" title="docker" alt="docker" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg"/>
 <img width="30px" style="padding-right: 10px" title="aws" alt="aws" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
 <img width="30px" style="padding-right: 10px" title="html" alt="html" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
