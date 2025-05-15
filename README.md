@@ -19,7 +19,6 @@ Estudande de ciência da computação e um entusiasta da tecnologia/inovação, 
 ### 🤖 Linguagens e Tecnologias
 
 <img width="30px" style="padding-right: 10px" title="java" alt="java" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
-<img width="30px" style="padding-right: 10px" title="maven" alt="maven" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" >
 <img width="30px" style="padding-right: 10px" title="spring" alt="spring" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"/>
 <img width="30px" style="padding-right: 10px" title="c#" alt="c#" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
 <img width="30px" style="padding-right: 10px" title="dot-net" alt="dot-net" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain-wordmark.svg"/>
