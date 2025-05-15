@@ -2,8 +2,8 @@
 
 **`Desenvolvedor Back-End`**
 
-Estudande de ciência da computação e um entusiasta da tecnologia/inovação, matemática e física.<br>
-**"A educação tem raízes amargas, mas os seus frutos são doces."** - Aristóteles
+Software Engineering student with a strong interest in mathematics, algorithms, and technological innovation. Dedicated to developing efficient solutions and continuously expanding my knowledge<br>
+**"Education has bitter roots, but its fruits are sweet."** - Aristóteles
 
 <p align="left">
       <a href="https://www.instagram.com/oguxtavin/">
@@ -16,7 +16,7 @@ Estudande de ciência da computação e um entusiasta da tecnologia/inovação, 
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Technologies
 
 <img width="30px" style="padding-right: 10px" title="java" alt="java" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
 <img width="30px" style="padding-right: 10px" title="spring" alt="spring" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"/>
@@ -35,7 +35,7 @@ Estudande de ciência da computação e um entusiasta da tecnologia/inovação, 
 <br>
 <br>
 
-### 📊 Estatísticas
+### 📊 Statistics
 
 <img height="200" title="github status" alt="github status" align="left" src="https://github-readme-stats.vercel.app/api?username=C0STADEV&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
 <img height="120" title="github status" alt="github status" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=C0STADEV&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=10"/>
