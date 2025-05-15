@@ -1,6 +1,6 @@
 # 👨🏼‍💻 Gustavo Rech Costa
 
-**`Desenvolvedor Back-End`**
+**`Software Engineer`**
 
 Software Engineering student with a strong interest in mathematics, algorithms, and technological innovation. Dedicated to developing efficient solutions and continuously expanding my knowledge<br>
 **"Education has bitter roots, but its fruits are sweet."** - Aristóteles
@@ -37,5 +37,5 @@ Software Engineering student with a strong interest in mathematics, algorithms, 
 
 ### 📊 Statistics
 
-<img height="200" title="github status" alt="github status" align="left" src="https://github-readme-stats.vercel.app/api?username=C0STADEV&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
-<img height="120" title="github status" alt="github status" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=C0STADEV&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=10"/>
+<img height="200" title="github status" alt="github status" align="left" src="https://github-readme-stats.vercel.app/api?username=C0STADEV&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en"/>
+<img height="120" title="github status" alt="github status" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=C0STADEV&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=10&locale=en"/>
