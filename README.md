@@ -38,4 +38,4 @@ Software Engineering student with a strong interest in mathematics, algorithms, 
 ### 📊 Statistics
 
 <img height="200" title="github status" alt="github status" align="left" src="https://github-readme-stats.vercel.app/api?username=C0STADEV&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en"/>
-<img height="120" title="github status" alt="github status" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=C0STADEV&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=10&locale=en"/>
+<img height="120" title="github status" alt="github status" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=C0STADEV&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=10&locale=en"/>
