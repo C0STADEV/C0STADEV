@@ -22,10 +22,6 @@ Software Engineering student with a strong interest in mathematics, algorithms, 
 
 <img width="30px" style="padding-right: 10px" title="spring" alt="spring" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"/>
 
-<img width="30px" style="padding-right: 10px" title="c#" alt="c#" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
-
-<img width="30px" style="padding-right: 10px" title="dot-net" alt="dot-net" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain-wordmark.svg"/>
-
 <img width="30px" style="padding-right: 10px" title="node.js" alt="node.js" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg"/>
 
 <img width="30px" style="padding-right: 10px" title="postgress" alt="postgress" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
