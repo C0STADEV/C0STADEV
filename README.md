@@ -22,15 +22,19 @@ Software Engineering student with a strong interest in mathematics, algorithms, 
 
 <img width="30px" style="padding-right: 10px" title="spring" alt="spring" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"/>
 
-<img width="30px" style="padding-right: 10px" title="node.js" alt="node.js" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg"/>
+<img width="30px" style="padding-right: 10px" title="c#" alt="c#" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
 
 <img width="30px" style="padding-right: 10px" title="flutter" alt="flutter" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"/>
 
+<img width="30px" style="padding-right: 10px" title="node.js" alt="node.js" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg"/>
+
+<img width="30px" style="padding-right: 10px" title="react" alt="react" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
+
 <img width="30px" style="padding-right: 10px" title="postgress" alt="postgress" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
 
-<img width="30px" style="padding-right: 10px" title="mysql" alt="mysql" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"/>
+<img width="30px" style="padding-right: 10px" title="mysql" alt="mysql" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
 
-<img width="30px" style="padding-right: 10px" title="mongodb" alt="mongodb" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg"/>
+<img width="30px" style="padding-right: 10px" title="mongodb" alt="mongodb" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"/>
 
 <img width="30px" style="padding-right: 10px" title="docker" alt="docker" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg"/>
 
